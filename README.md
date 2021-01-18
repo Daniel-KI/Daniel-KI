@@ -4,7 +4,6 @@
 - 💻 I'm currently learning everything that connected with web development
 - 🎓 I have completed my bachelor's degree with the qualification of «Programmer/Business-analyst»
 - 📖 I am taking a Master course in «E-business management» at BSUIR.
-- 👯 I’m looking to collaborate with other developers
 
 <br />
 
