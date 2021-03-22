@@ -11,8 +11,9 @@
 ---
 ### Connect with me:
 
-- 📌 Telegram : https://t.me/Daniel_KI3560
 - 📌 Discord: Daniel-KI#3560
+- 📌 Telegram : https://t.me/Daniel_KI3560
+- 📌 Youtube: https://www.youtube.com/channel/UC_wR7PlCxdsX8WIGEvkvLGw
 
 <br />
 
