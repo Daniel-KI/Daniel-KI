@@ -20,12 +20,13 @@
 ---
 ### Languages and Tools:
 
-- ⚙️ Visual Studio Code
+- ⚙️ JavaScript
+- ⚙️ TypeScript
+- ⚙️ Webpack
 - ⚙️ HTML
 - ⚙️ CSS
-- ⚙️ JavaScript
-- ⚙️ MySQL
 - ⚙️ Git
+- ⚙️ MySQL
 - ⚙️ Java
 - ⚙️ Spring Framework
 
