@@ -23,10 +23,15 @@
 - ⚙️ JavaScript
 - ⚙️ TypeScript
 - ⚙️ Webpack
+- ⚙️ Node
 - ⚙️ HTML
 - ⚙️ CSS
+- ⚙️ SASS/ SCSS
 - ⚙️ Git
+- ⚙️ MongoDB
 - ⚙️ MySQL
 - ⚙️ Java
 - ⚙️ Spring Framework
+- ⚙️ Figma
+- ⚙️ Photoshop
 
